@@ -1,9 +1,12 @@
 <table>
 <tr>
-<td width="160">
-  <img src="https://avatars.githubusercontent.com/annyperfcts3-web" width="140" />
+<td width="160" align="center">
+  <img src="https://github.com/annyperfcts3-web.png" width="140" />
 </td>
+
 <td>
+
+
 
 
 
