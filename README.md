@@ -1,30 +1,24 @@
-<table>
-<tr>
-<td width="160" align="center">
-  <img src="https://github.com/annyperfcts3-web.png" width="140" />
-</td>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="140" />
+</p>
 
-<td>
+<h2 align="center">👋 Olá! Eu sou Anielle Rocha</h2>
 
+<p align="center">
+  <strong>Python | Automação | Dados | Dev Júnior</strong><br>
+  Análise de Dados • BI • Machine Learning<br>
+  Redes de Computadores • Inglês Intermediário
+</p>
 
-
-
-
-## 👋 Olá! Eu sou Anielle Rocha
-
-**Python | Automação | Dados | Dev Júnior**  
-Análise de Dados • BI • Machine Learning  
-Redes de Computadores • Inglês Intermediário
-
-<p>
+<p align="center">
   <a href="https://wa.me/5561985419524">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://br.linkedin.com/in/anielle-rocha-a8a06203">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/annyperfcts3-web">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white">
   </a>
 </p>
 
