@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="160" align="left">
+    <td width="160">
       <img src="IMG_3788.jpeg" width="150" style="border-radius:50%;" />
     </td>
-    <td align="left">
+    <td>
       <h2>👋 Olá! Eu sou Anielle Rocha</h2>
 
       <strong>
@@ -14,16 +14,16 @@
 
       <br><br>
 
-      <a href="https://wa.me/5561985419524" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="32"/>
+      <a href="https://wa.me/5561985419524">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="32">
       </a>
       &nbsp;&nbsp;
-      <a href="https://br.linkedin.com/in/anielle-rocha-a8a06203" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/>
+      <a href="https://br.linkedin.com/in/anielle-rocha-a8a06203">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32">
       </a>
       &nbsp;&nbsp;
-      <a href="https://github.com/annyperfcts3-web" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32"/>
+      <a href="https://github.com/annyperfcts3-web">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32">
       </a>
     </td>
   </tr>
