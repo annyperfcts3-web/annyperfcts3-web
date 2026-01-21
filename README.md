@@ -1,6 +1,11 @@
-<p align="left">
-  <img src="IMG_3788.jpeg" width="150" style="border-radius:50%;" />
-</p>
+<table>
+<tr>
+<td width="160">
+  <img src="https://avatars.githubusercontent.com/annyperfcts3-web" width="140" />
+</td>
+<td>
+
+
 
 ## 👋 Olá! Eu sou Anielle Rocha
 
