@@ -1,148 +1,121 @@
-<!-- TOPO: FOTO + NOME + CONTATOS -->
-<table>
-  <tr>
-    <td width="160" valign="top">
-      <img src="IMG_3788.jpeg" width="140" height="140" style="border-radius:70px;" />
-    </td>
+![Avatar](https://github.com/annyperfcts3-web.png)
 
-    <td valign="top">
-      <h2>👋 Olá! Eu sou Anielle Rocha</h2>
+## 👋 Olá! Eu sou Anielle Rocha
 
-      <strong>Python | Dados | Automação | Dev Júnior</strong><br>
-      Análise de Dados • BI • Machine Learning<br>
-      Redes de Computadores • Inglês Intermediário<br><br>
+**Python | Automação | Dados | Dev Júnior**  
+Análise de Dados • BI • Machine Learning (em formação)  
+Redes de Computadores • Inglês Intermediário  
 
-      <a href="https://wa.me/5561985419524">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="26"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://br.linkedin.com/in/aniellerochaba8a06203">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/annyperfcts3-web">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="26"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985419524)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/aniellerochaba8a06203)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annyperfcts3-web)
 
 ---
 
 ## 🧠 Sobre mim
-Profissional com experiência em **Help Desk, Suporte e Infraestrutura**, em transição estratégica para **Python, Automação, Análise de Dados, Business Intelligence e Inteligência Artificial**.  
-Vivência em ambientes corporativos de grande porte e desenvolvimento de projetos práticos com Python e Web.
+Profissional de Tecnologia com experiência em **Help Desk, Suporte Técnico e Infraestrutura**, em transição estratégica para **Python, Automação e Análise de Dados**.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
-  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS / Cloud"/>
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔹 Automação de Envio de E-mails com Python
-Automação desenvolvida em Python para envio de e-mails, reduzindo tarefas manuais e aumentando a produtividade.  
-🔗 https://github.com/annyperfcts3-web/automacao-email-python
-
-### 🔹 Site / Portfólio Profissional
-Site desenvolvido em **HTML e CSS**, publicado via **GitHub Pages**, utilizado como portfólio profissional.  
-🔗 https://github.com/annyperfcts3-web/annyperfcts3-web.github.io
-
-### 🔹 Projeto de Análise de Dados com Python
-Projeto focado em coleta, tratamento e análise de dados, com geração de insights para apoio à tomada de decisão.
-
-### 🔹 Projeto de Previsão com Machine Learning
-Projeto de estudo utilizando Python para preparação de dados, treinamento e avaliação de modelos preditivos.
+Vivência em ambientes corporativos de grande porte (Projeto Banco do Brasil), atuando com suporte ao usuário, redes, monitoramento e projetos práticos com **Python e Web**, voltados à automação e produtividade.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🏢 G&E — Teleatendente  
-📅 Mar/2025 – Atual  
-- Atendimento ativo e receptivo  
-- Uso de WhatsApp corporativo e sistemas internos  
-- Orientações financeiras, empréstimos, aumento de limites e bloqueio de cartões  
-
----
-
-### 🏦 Ágil – Projeto Banco do Brasil (Terceirizada)  
-**Analista de Infraestrutura de Redes Júnior**  
+### 🖥️ Analista de Infraestrutura de Redes Júnior  
+**Ágil Terceirizada – Projeto BBTS (Banco do Brasil)**  
 📅 Mai/2024 – Mar/2025  
-- Suporte de 1º nível à conectividade das agências  
+
+- Suporte de primeiro nível à conectividade de agências  
 - Acesso remoto a roteadores Cisco 4451  
-- SD-WAN, Huawei, Switches, Firewalls e Wi-Fi  
-- Monitoramento via Grafana  
-- Atuação conforme ITIL  
+- Atuação com SD-WAN, Huawei, Switches e Wi-Fi  
+- Monitoramento de serviços via Grafana  
+- Aplicação de boas práticas ITIL  
 
 ---
 
-### 🏦 Ágil – Projeto Banco do Brasil (Terceirizada)  
-**Teleatendente / Cobrança**  
+### 📞 Teleatendente – Cobrança Ativa e Receptiva  
+**Ágil Terceirizada – Projeto Banco do Brasil**  
 📅 Jan/2021 – Mai/2024  
-- Atendimento receptivo e ativo  
-- Cobrança para o Banco do Brasil  
+
+- Atendimento ativo e receptivo  
+- Registro de informações em sistemas internos  
 - Cumprimento de metas e indicadores  
 
 ---
 
-### 🖥️ MGB / Doctor SAC — Help Desk  
+### 📞 Teleatendente  
+**G&E**  
+📅 Mar/2025 – Atual  
+
+- Atendimento via telefone e WhatsApp  
+- Orientações sobre empréstimos, aumento de limite e cartões  
+- Uso de sistemas internos (URO)  
+
+---
+
+### 🧠 Help Desk  
+**MGB / Doctor SAC**  
 📅 Jan/2012 – Dez/2014  
-- Suporte a sistemas do SERPRO  
-- Abertura e direcionamento de chamados  
-- Atendimento a órgãos públicos e clientes corporativos  
+
+- Suporte telefônico a sistemas do SERPRO  
+- Abertura e encaminhamento de chamados  
+- Atendimento a órgãos públicos  
 
 ---
 
-### 📞 Call Tecnologia — Teleatendente  
-📅 Jan/2015 – Dez/2016  
-- Atendimento receptivo  
-- Orientações sobre Seguro Desemprego, CAGED, Homolognet e eSocial  
-
----
-
-### 🧑‍💼 JR Veículos — Gerente  
+### 🧑‍💼 Gerente  
+**JR Veículos**  
 📅 Jan/2018 – Dez/2019  
-- Análise de fichas financeiras e propostas  
-- Gestão de contratos  
+
+- Operações com banco Efenai  
+- Análise de fichas financeiras  
+- Gestão e formalização de contratos  
 
 ---
 
-### 📞 GVT — Consultor de Vendas  
-📅 Jan/2012 – Dez/2012  
-- Venda de planos de internet, telefone e TV  
+## 🚀 Projetos
+
+### 📧 Automação de Envio de E-mails com Python
+- Script em Python para envio automático de e-mails
+- Suporte a anexos e mensagens personalizadas
+- Projeto focado em automação de tarefas administrativas  
+
+🔗 https://github.com/annyperfcts3-web/automa-o-email-python
+
+---
+
+### 🌐 Site de Portfólio Profissional
+- Site desenvolvido com HTML e CSS
+- Publicado via GitHub Pages
+- Criado para apresentação profissional  
+
+🔗 https://github.com/annyperfcts3-web/annyperfcts3-web.github.io
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ---
 
 ## 🎓 Formação & Certificações
 - 🎓 Redes de Computadores – UCB (em andamento)  
 - ✅ ITIL 4 – Fundamentos  
-- ✅ Python Avançado – Hashtag Treinamentos  
+- 🐍 Python Avançado – Hashtag Treinamentos  
 - 📊 Análise de Dados – Fundação Bradesco  
-- ☁️ Fundamentos de Nuvem / AWS  
-- 📡 Guia Cisco CCNA  
+- ☁️ Fundamentos de Cloud / AWS  
+- 🌐 Guia Cisco CCNA  
 
 ---
 
 ## 📬 Contato
-- 📱 WhatsApp: **61 98541-9524**  
-- 💼 LinkedIn: https://br.linkedin.com/in/aniellerochaba8a06203  
-- 💻 GitHub: https://github.com/annyperfcts3-web  
-
----
-
-✨ Perfil focado em **Python, Dados e Automação**, com base sólida em Suporte e Infraestrutura.
+📱 WhatsApp: 61 98541-9524  
+💼 LinkedIn: https://br.linkedin.com/in/aniellerochaba8a06203  
+💻 GitHub: https://github.com/annyperfcts3-web
