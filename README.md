@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/annyperfcts3-web" width="150" style="border-radius:50%" />
+
+  <p align="center">
+  <img src="IMG_3788.jpeg" width="160" style="border-radius:50%" />
+
 </p>
 
 <h2 align="center">👋 Olá! Eu sou Anielle Rocha</h2>
