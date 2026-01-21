@@ -1,14 +1,33 @@
-![Avatar](https://github.com/annyperfcts3-web.png)
+<table>
+  <tr>
+    <td width="160" align="left">
+      <img src="IMG_3788.jpeg" width="150" style="border-radius:50%;" />
+    </td>
+    <td align="left">
+      <h2>👋 Olá! Eu sou Anielle Rocha</h2>
 
-## 👋 Olá! Eu sou Anielle Rocha
+      <strong>
+        Python | Automação | Dados | Dev Júnior<br>
+        Análise de Dados • BI • Machine Learning<br>
+        Redes de Computadores • Inglês Intermediário
+      </strong>
 
-**Python | Automação | Dados | Dev Júnior**  
-Análise de Dados • BI • Machine Learning (em formação)  
-Redes de Computadores • Inglês Intermediário  
+      <br><br>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985419524)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/aniellerochaba8a06203)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annyperfcts3-web)
+      <a href="https://wa.me/5561985419524" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="32"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://br.linkedin.com/in/anielle-rocha-a8a06203" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/annyperfcts3-web" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
