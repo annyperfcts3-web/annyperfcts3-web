@@ -1,33 +1,24 @@
-<table>
-  <tr>
-    <td width="160">
-      <img src="IMG_3788.jpeg" width="150" style="border-radius:50%;" />
-    </td>
-    <td>
-      <h2>👋 Olá! Eu sou Anielle Rocha</h2>
+<p align="left">
+  <img src="IMG_3788.jpeg" width="150" style="border-radius:50%;" />
+</p>
 
-      <strong>
-        Python | Automação | Dados | Dev Júnior<br>
-        Análise de Dados • BI • Machine Learning<br>
-        Redes de Computadores • Inglês Intermediário
-      </strong>
+## 👋 Olá! Eu sou Anielle Rocha
 
-      <br><br>
+**Python | Automação | Dados | Dev Júnior**  
+Análise de Dados • BI • Machine Learning  
+Redes de Computadores • Inglês Intermediário
 
-      <a href="https://wa.me/5561985419524">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="32">
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://br.linkedin.com/in/anielle-rocha-a8a06203">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32">
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/annyperfcts3-web">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32">
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://wa.me/5561985419524">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://br.linkedin.com/in/anielle-rocha-a8a06203">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/annyperfcts3-web">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
