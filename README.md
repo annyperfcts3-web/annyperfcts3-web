@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="140" />
+  <img src="./foto.jpg" width="140" style="border-radius:50%" />
 </p>
 
 <h2 align="center">👋 Olá! Eu sou Anielle Rocha</h2>
