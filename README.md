@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./foto.jpg" width="140" style="border-radius:50%" />
+  <img 
+    src="./foto.jpg" 
+    width="140" 
+    style="border-radius:50%; object-fit:cover;"
+  />
 </p>
 
 <h2 align="center">👋 Olá! Eu sou Anielle Rocha</h2>
