@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./foto-redonda.png" width="800" />
+  <img src="./foto-redonda.png" width="220" />
 </p>
 
 <h2 align="center">👋 Olá! Eu sou Anielle Rocha</h2>
