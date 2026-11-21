@@ -110,17 +110,15 @@ Busco evolução contínua na área de infraestrutura, operações de redes, mon
 
 ## 🚀 Projetos
 
-### 🌐 ORIVEX DIGITAL — Portfólio Profissional
 
-Projeto de presença digital e apresentação profissional na área de tecnologia.
+## 🌐 ORIVEX DIGITAL — Projeto Web
 
-- Desenvolvimento e organização de portfólio.
-- Apresentação de projetos e conhecimentos técnicos.
-- Publicação utilizando GitHub Pages.
+Projeto de desenvolvimento da plataforma ORIVEX DIGITAL, com identidade visual própria e estrutura de aplicação web.
 
-🔗 [Acessar ORIVEX DIGITAL](https://annyperfcts3-web.github.io/)
+🔗 **[Acessar repositório ORIVEX DIGITAL](https://github.com/annyperfcts3-web/orivex-digital)**
 
-🔗 [Repositório do site](https://github.com/annyperfcts3-web/annyperfcts3-web.github.io)
+
+
 
 ### 🖥️ ORIVEX LAB — Infraestrutura e Redes
 
