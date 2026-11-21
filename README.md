@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="./foto-redonda.png" width="250" />
-</p>
 
 <h1 align="center">👋 Olá! Eu sou Anielle Rocha Passos</h1>
 
