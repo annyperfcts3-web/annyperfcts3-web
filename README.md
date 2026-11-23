@@ -116,10 +116,9 @@ Projeto de desenvolvimento da plataforma ORIVEX DIGITAL, com identidade visual p
 
 
 
+💻 **ORIVEX LAB — Infraestrutura, Redes e Cloud Computing**
 
-### 🖥️ ORIVEX LAB — Infraestrutura e Redes
-
-Laboratório técnico de estudos e documentação voltado à infraestrutura de TI, redes, Linux, monitoramento, segurança e automação.
+Laboratório técnico de estudos e práticas aplicadas à infraestrutura de TI, redes, Linux, monitoramento, segurança, automação e computação em nuvem.
 
 **Conteúdos desenvolvidos:**
 
@@ -130,7 +129,10 @@ Laboratório técnico de estudos e documentação voltado à infraestrutura de T
 - Disponibilidade, SLA, MTBF e MTTR.
 - Gestão de incidentes, RCA e RFO.
 - Segurança da informação.
-- Fundamentos de automação com Python.
+- Automação de infraestrutura com Python.
+- AWS: EC2, VPC, sub-redes e grupos de segurança.
+- Amazon S3: armazenamento de objetos.
+- Amazon CloudWatch: monitoramento de recursos.
 
 🔗 [Acessar ORIVEX LAB no GitHub](https://github.com/annyperfcts3-web/orivex-lab-infraestrutura)
 
